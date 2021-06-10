@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DymOK93&layout=compact)
+
+## About me
+2nd year student of BMSTU
+
+I’m currently learning C++ and working on KTL - CRT & STL-like library for Windows Kernel Driver development with modern C++
+
+###
+![Profile views](https://gpvc.arturio.dev/DymOK93)
 
 <!--
 **DymOK93/DymOK93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
