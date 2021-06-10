@@ -1,12 +1,10 @@
-### Hi 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=DymOK93&theme=cobalt&show_icons=true&count_private=true)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=DymOK93&layout=compact)
 
-## About me
-2nd year student of BMSTU
+## About
+I’m 2nd year student of BMSTU, currently learning C++ and working on KTL - CRT & STL-like library for Windows Kernel Driver development with modern C++
 
-I’m currently learning C++ and working on KTL - CRT & STL-like library for Windows Kernel Driver development with modern C++
-
-###
 ![Profile views](https://gpvc.arturio.dev/DymOK93)
 
 <!--
