@@ -1,7 +1,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DymOK93&theme=cobalt&show_icons=true&count_private=true)
 
 ## About
-I’m 6th year student of BMSTU, currently working on ~~KTL - CRT & STL-like library for Windows Kernel Driver development with modern C++~~ my graduation work
+I’m post-graduate student of BMSTU, currently working on ~~KTL - CRT & STL-like library for Windows Kernel Driver development with modern C++~~ my graduation work
 
 ![Profile views](https://gpvc.arturio.dev/DymOK93)
 
